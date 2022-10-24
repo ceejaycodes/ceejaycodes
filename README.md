@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvel Ogoke</h1>
 <h3 align="center">Software Developer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 - 🌱 I’m currently learning **Django, Fast API, Reactjs, Nextjs**
 
