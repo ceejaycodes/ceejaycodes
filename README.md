@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fast API, Reactjs, Nextjs**
 
-- 💬 Ask me about **Django, Flask, SQL, VanillaJs**
+- 💬 Ask me about **Python, Django, Flask, SQL, VanillaJs**
 
 - 📫 How to reach me **marvel@cry8.io**
 
