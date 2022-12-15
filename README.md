@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
-- 🌱 I’m currently learning **Fast API, Reactjs, Nextjs**
+- 🌱 I’m currently learning **Fast API, Nextjs**
 
-- 💬 Ask me about **Python, Django, Flask, SQL, VanillaJs**
+- 💬 Ask me about **Python, Django, Flask, SQL, Reactjs, VanillaJs**
 
 - 📫 How to reach me **marvel@cry8.io**
 
