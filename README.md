@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django, Reactjs, VanillaJs, Typescript,NextJS, SQL, PrismaORM**
 
-- 📫 How to reach me **marvel@cry8.io**
+- 📫 How to reach me **[dreelceejay79@yahoo.com] by Mail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
