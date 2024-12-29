@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
-- 🌱 I’m currently learning **Fast API, React Native, AI**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **Python, Django, Reactjs, VanillaJs, Typescript,NextJS, SQL, PrismaORM**
+- 💬 Ask me about **Any JS/TS Framework!**
 
 - 📫 How to reach me **[by Mail](mailto:dreelceejay79@yahoo.com)**
 
